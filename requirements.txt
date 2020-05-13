@@ -1,0 +1,12 @@
+autopep8==1.5.2
+certifi==2020.4.5.1
+chardet==3.0.4
+idna==2.9
+mccabe==0.6.1
+pycodestyle==2.6.0
+pydocstyle==5.0.2
+pyflakes==2.2.0
+pylama==7.7.1
+requests==2.23.0
+snowballstemmer==2.0.0
+urllib3==1.25.9
